@@ -1,0 +1,12 @@
+{
+  "id": 1,
+  "name": "orb",
+  "position X": 830.0,
+  "position Y": 1000.0,
+  "bodyType": "StaticBody",
+  "FogOfWarDistance": 200.0,
+  "friction": 0.0,
+  "spritePath": "entities.png",
+  "spriteRevision": 2,
+  "quality": 2
+}

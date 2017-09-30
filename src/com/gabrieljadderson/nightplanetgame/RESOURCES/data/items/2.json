@@ -1,0 +1,12 @@
+{
+  "id": 2,
+  "name": "coin",
+  "position X": 730.0,
+  "position Y": 1000.0,
+  "bodyType": "StaticBody",
+  "FogOfWarDistance": 200.0,
+  "friction": 0.0,
+  "spritePath": "entities.png",
+  "spriteRevision": 3,
+  "quality": 2
+}

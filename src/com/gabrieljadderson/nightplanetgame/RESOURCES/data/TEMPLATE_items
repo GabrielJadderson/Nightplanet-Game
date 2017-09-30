@@ -1,0 +1,16 @@
+{
+  "id": x,
+  "name": "xxxxx",
+  "examine": "The body of a Dwarf savaged by Goblins.",
+  "position X": xxx.x,
+  "position Y": xxx.x,
+  "bodyType": "StaticBody",
+  "FogOfWarDistance": 200.0,
+  "friction": 0.0,
+  "spritePath": "graphics/entities.png",
+  "spriteRevision": 3,
+  "quality": x,
+  "stackable": false,
+  "tradeable": true,
+  "generalStorePrice": 0
+}

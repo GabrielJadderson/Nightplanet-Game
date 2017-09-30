@@ -1,0 +1,22 @@
+[
+    { 
+        "ShaderProgramName" : "DayShader",
+        "Shader_Vertex_Name": "vertexShader",
+        "Shader_Fragment_Name" : "dayPixelShader"
+    },
+    { 
+        "ShaderProgramName" : "LightShader",
+        "Shader_Vertex_Name": "vertexShader",
+        "Shader_Fragment_Name" : "lightPixelShader"
+    },
+    { 
+        "ShaderProgramName" : "NightShader",
+        "Shader_Vertex_Name": "vertexShader",
+        "Shader_Fragment_Name" : "nightPixelShader"
+    },
+    { 
+        "ShaderProgramName" : "FinalShader",
+        "Shader_Vertex_Name": "vertexShader",
+        "Shader_Fragment_Name" : "pixelShader"
+    }
+]

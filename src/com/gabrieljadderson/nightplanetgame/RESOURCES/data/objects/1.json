@@ -1,0 +1,24 @@
+{
+  "id": 1,
+  "name": "NPC_SPAWN_GREEN",
+  "position": {
+    "x": 44.0,
+    "y": 7.0,
+    "z": 0.0
+  },
+  "size": {
+    "w": -1.0,
+    "h": -1.0
+  },
+  "isBodyObject": false,
+  "hasPremultipliedAlpha": false,
+  "scale": 0.0025,
+  "animationSpeed": 2.800,
+  "animationName": "animation",
+  "loopTheAnimation": false,
+  "pathAtlas": "NPC_SPAWN_GREEN.atlas",
+  "pathJson": "NPC_SPAWN_GREEN.json",
+  "pathSFX": "SFXGame.7.ogg",
+  "pathSFX2": "SFXGame.7.ogg",
+  "pathSFX3": "SFXGame.7.ogg"
+}

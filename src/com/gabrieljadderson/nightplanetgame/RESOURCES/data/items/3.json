@@ -1,0 +1,12 @@
+{
+  "id": 3,
+  "name": "dickface",
+  "position X": 730.0,
+  "position Y": 900.0,
+  "bodyType": "StaticBody",
+  "FogOfWarDistance": 200.0,
+  "friction": 0.0,
+  "spritePath": "entities.png",
+  "spriteRevision": 3,
+  "quality": 3
+}

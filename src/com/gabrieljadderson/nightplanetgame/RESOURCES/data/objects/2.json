@@ -1,0 +1,24 @@
+{
+  "id": 2,
+  "name": "NPC_SPAWN_RED",
+  "position": {
+    "x": 44.0,
+    "y": 9.0,
+    "z": 0.0
+  },
+  "size": {
+    "w": -1.0,
+    "h": -1.0
+  },
+  "isBodyObject": false,
+  "hasPremultipliedAlpha": false,
+  "scale": 0.0030,
+  "animationSpeed": 2.800,
+  "animationName": "animation",
+  "loopTheAnimation": false,
+  "pathAtlas": "NPC_SPAWN_RED.atlas",
+  "pathJson": "NPC_SPAWN_RED.json",
+  "pathSFX": "SFXGame.7.ogg",
+  "pathSFX2": "SFXGame.7.ogg",
+  "pathSFX3": "SFXGame.7.ogg"
+}

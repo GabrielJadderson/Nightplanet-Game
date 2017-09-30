@@ -1,0 +1,13 @@
+{
+  "id": 0,
+  "name": "decoy",
+  "description": "nothing to see here.",
+  "position X": 800.0,
+  "position Y": 1050.0,
+  "bodyType": "StaticBody",
+  "FogOfWarDistance": 300.0,
+  "friction": 0.0,
+  "spritePath": "entities.png",
+  "spriteRevision": 2,
+  "quality": 1
+}

@@ -1,0 +1,27 @@
+{
+  "id": 3,
+  "name": "NPC_SPAWN_BLUE",
+  "position": {
+    "x": 40.0,
+    "y": 7.0,
+    "z": 0.0
+  },
+  "size": {
+    "w": -1.0,
+    "h": -1.0
+  },
+  "isBodyObject": false,
+  "hasPremultipliedAlpha": false,
+  "scale": 0.0015,
+  "animationSpeed": 2.800,
+  "animationName": "animation",
+  "loopTheAnimation": false,
+  "pathAtlas": "NPC_SPAWN_BLUE.atlas",
+  "pathJson": "NPC_SPAWN_BLUE.json",
+  "pathSFX": "SFXGame.7.ogg",
+  "volumeSFX": 0.1,
+  "pathSFX2": "SFXGame.7.ogg",
+  "volumeSFX2": 0.1,
+  "pathSFX3": "SFXGame.7.ogg",
+  "volumeSFX3": 0.1
+}

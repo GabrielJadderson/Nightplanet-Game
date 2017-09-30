@@ -1,0 +1,12 @@
+{
+  "id": 4,
+  "name": "howling",
+  "position X": 830.0,
+  "position Y": 900.0,
+  "bodyType": "StaticBody",
+  "FogOfWarDistance": 200.0,
+  "friction": 0.0,
+  "spritePath": "entities.png",
+  "spriteRevision": 3,
+  "quality": 4
+}

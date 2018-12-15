@@ -3,6 +3,6 @@ The Libgdx versoin was heavily modified and thus included in the project.
 since this project is not compatible with newer versions of libgdx. Neither is version 1.9.2 (used in this project) supported by LibGDX any more.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GabrielJadderson/Nightplanet-Game/master/preview.gif"/>
+  <img src="https://github.com/GabrielJadderson/Nightplanet-Game/raw/master/preview.gif"/>
 </p>
 
